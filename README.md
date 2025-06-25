@@ -4,7 +4,7 @@
 📌 Overview
 
 
-The Agent Analysis Project is a data-driven initiative aimed at analyzing the performance, efficiency, and behavior of agents (e.g., delivery agents, sales agents, support staff, etc.) based on historical datasets. This project leverages tools like Python, SQL, and Power BI/Tableau to extract insights, identify performance trends, and recommend improvements for better operational efficiency.
+The Agent Analysis Project is a data-driven initiative aimed at analyzing the performance, efficiency, and behavior of agents (e.g., delivery agents, sales agents, support staff, etc.) based on historical datasets. This project leverages tools like MYSQL, and Power BI to extract insights, identify performance trends, and recommend improvements for better operational efficiency.
 
 
 
